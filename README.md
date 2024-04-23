@@ -1,0 +1,1 @@
+# Spectral_Landslide_detecetion
